@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+我是陈俊义，一个前端工程师
+
+#### 掘金首页[https://juejin.cn/user/1011206427522078]
+
 <!--
 **chen-junyi/chen-junyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
