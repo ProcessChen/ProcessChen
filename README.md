@@ -7,4 +7,7 @@
 #### [个人网站](https://chen-junyi.github.io/article/) ([国内访问地址](https://junyi-chen.gitee.io/article/))
 #### [掘金首页](https://juejin.cn/user/1011206427522078)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-junyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Process's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-junyi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-junyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
