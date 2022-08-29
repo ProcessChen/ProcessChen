@@ -7,6 +7,6 @@
 #### [个人网站](https://process1024.github.io/article/) ([国内访问地址](https://junyi-chen.gitee.io/article/))
 #### [掘金首页](https://juejin.cn/user/1011206427522078)
 
-[![Process's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-junyi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-junyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Process's GitHub stats](https://github-readme-stats.vercel.app/api?username=process1024&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=process1024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
