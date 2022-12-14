@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm process1024.
+
+You can find me here: [掘金](https://juejin.cn/user/1011206427522078)/[blog](https://process1024.github.io/article/)
+email: 62916233@qq.com
+wechat: 629162344
 
 我是陈俊义，一个前端工程师
 
