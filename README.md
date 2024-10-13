@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm process1024.
 
-You can find me here: [掘金](https://juejin.cn/user/1011206427522078)/[blog](https://process1024.github.io/article/)
+You can find me here: [掘金](https://juejin.cn/user/1011206427522078)/[blog](https://process1024.github.io/)
 
-email: 62916233@qq.com
+email: 629162344@qq.com
 
 wechat: 629162344
 
@@ -10,7 +10,7 @@ wechat: 629162344
 
 公众号：前端好好玩
 
-#### [个人网站](https://process1024.github.io/article/) ([国内访问地址](https://junyi-chen.gitee.io/article/))
+#### [个人网站](https://process1024.github.io/) ([国内访问地址](https://junyi-chen.gitee.io/article/))
 #### [掘金首页](https://juejin.cn/user/1011206427522078)
 
 [![Process's GitHub stats](https://github-readme-stats.vercel.app/api?username=process1024&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
